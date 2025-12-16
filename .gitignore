@@ -1,0 +1,11 @@
+data/
+models/
+results/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.DS_Store
+Dockerfile.dev
+docker-compose.yml
